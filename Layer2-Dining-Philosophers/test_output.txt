@@ -1,0 +1,161 @@
+Philosopher 1 is thinking.
+Philosopher 2 is thinking.
+Philosopher 3 is thinking.
+Philosopher 4 is thinking.
+Philosopher 5 is thinking.
+Philosopher 1 picked up chopsticks.
+Philosopher 4 picked up chopsticks.
+Philosopher 1 is eating.
+Philosopher 4 is eating.
+Philosopher 4 put down chopsticks.
+Philosopher 1 put down chopsticks.
+Philosopher 2 picked up chopsticks.
+Philosopher 5 picked up chopsticks.
+Philosopher 4 is thinking.
+Philosopher 1 is thinking.
+Philosopher 2 is eating.
+Philosopher 5 is eating.
+Philosopher 3 picked up chopsticks.
+Philosopher 2 put down chopsticks.
+Philosopher 3 is eating.
+Philosopher 1 picked up chopsticks.
+Philosopher 2 is thinking.
+Philosopher 5 put down chopsticks.
+Philosopher 1 is eating.
+Philosopher 5 is thinking.
+Philosopher 1 put down chopsticks.
+Philosopher 3 put down chopsticks.
+Philosopher 4 picked up chopsticks.
+Philosopher 2 picked up chopsticks.
+Philosopher 1 is thinking.
+Philosopher 3 is thinking.
+Philosopher 4 is eating.
+Philosopher 2 is eating.
+Philosopher 2 put down chopsticks.
+Philosopher 5 picked up chopsticks.
+Philosopher 3 picked up chopsticks.
+Philosopher 4 put down chopsticks.
+Philosopher 2 is thinking.
+Philosopher 5 is eating.
+Philosopher 3 is eating.
+Philosopher 4 is thinking.
+Philosopher 5 put down chopsticks.
+Philosopher 3 put down chopsticks.
+Philosopher 4 picked up chopsticks.
+Philosopher 5 is thinking.
+Philosopher 2 picked up chopsticks.
+Philosopher 3 is thinking.
+Philosopher 4 is eating.
+Philosopher 2 is eating.
+Philosopher 2 put down chopsticks.
+Philosopher 1 picked up chopsticks.
+Philosopher 4 put down chopsticks.
+Philosopher 3 picked up chopsticks.
+Philosopher 2 is thinking.
+Philosopher 1 is eating.
+Philosopher 4 is thinking.
+Philosopher 3 is eating.
+Philosopher 5 picked up chopsticks.
+Philosopher 1 put down chopsticks.
+Philosopher 5 is eating.
+Philosopher 3 put down chopsticks.
+Philosopher 2 picked up chopsticks.
+Philosopher 1 is thinking.
+Philosopher 3 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 put down chopsticks.
+Philosopher 4 picked up chopsticks.
+Philosopher 1 picked up chopsticks.
+Philosopher 5 put down chopsticks.
+Philosopher 2 is thinking.
+Philosopher 4 is eating.
+Philosopher 1 is eating.
+Philosopher 5 is thinking.
+Philosopher 1 put down chopsticks.
+Philosopher 1 is thinking.
+Philosopher 5 picked up chopsticks.
+Philosopher 3 picked up chopsticks.
+Philosopher 5 is eating.
+Philosopher 4 put down chopsticks.
+Philosopher 3 is eating.
+Philosopher 4 is thinking.
+Philosopher 3 put down chopsticks.
+Philosopher 4 picked up chopsticks.
+Philosopher 5 put down chopsticks.
+Philosopher 1 picked up chopsticks.
+Philosopher 3 is thinking.
+Philosopher 4 is eating.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 4 put down chopsticks.
+Philosopher 4 is thinking.
+Philosopher 1 put down chopsticks.
+Philosopher 5 picked up chopsticks.
+Philosopher 2 picked up chopsticks.
+Philosopher 5 is eating.
+Philosopher 1 is thinking.
+Philosopher 2 is eating.
+Philosopher 2 put down chopsticks.
+Philosopher 3 picked up chopsticks.
+Philosopher 5 put down chopsticks.
+Philosopher 1 picked up chopsticks.
+Philosopher 2 is thinking.
+Philosopher 3 is eating.
+Philosopher 5 is thinking.
+Philosopher 1 is eating.
+Philosopher 1 put down chopsticks.
+Philosopher 4 picked up chopsticks.
+Philosopher 2 picked up chopsticks.
+Philosopher 3 put down chopsticks.
+Philosopher 1 is thinking.
+Philosopher 4 is eating.
+Philosopher 2 is eating.
+Philosopher 3 is thinking.
+Philosopher 2 put down chopsticks.
+Philosopher 3 picked up chopsticks.
+Philosopher 4 put down chopsticks.
+Philosopher 5 picked up chopsticks.
+Philosopher 2 is thinking.
+Philosopher 3 is eating.
+Philosopher 4 is thinking.
+Philosopher 5 is eating.
+Philosopher 3 put down chopsticks.
+Philosopher 2 picked up chopsticks.
+Philosopher 4 picked up chopsticks.
+Philosopher 3 is thinking.
+Philosopher 5 put down chopsticks.
+Philosopher 2 is eating.
+Philosopher 4 is eating.
+Philosopher 5 is thinking.
+Philosopher 4 put down chopsticks.
+Philosopher 1 picked up chopsticks.
+Philosopher 2 put down chopsticks.
+Philosopher 3 picked up chopsticks.
+Philosopher 4 is thinking.
+Philosopher 1 is eating.
+Philosopher 2 is thinking.
+Philosopher 3 is eating.
+Philosopher 1 put down chopsticks.
+Philosopher 5 picked up chopsticks.
+Philosopher 3 put down chopsticks.
+Philosopher 2 picked up chopsticks.
+Philosopher 1 is thinking.
+Philosopher 5 is eating.
+Philosopher 3 is thinking.
+Philosopher 2 is eating.
+Philosopher 5 put down chopsticks.
+Philosopher 4 picked up chopsticks.
+Philosopher 2 put down chopsticks.
+Philosopher 1 picked up chopsticks.
+Philosopher 5 is thinking.
+Philosopher 4 is eating.
+Philosopher 2 is thinking.
+Philosopher 1 is eating.
+Philosopher 4 put down chopsticks.
+Philosopher 3 picked up chopsticks.
+Philosopher 5 picked up chopsticks.
+Philosopher 1 put down chopsticks.
+Philosopher 4 is thinking.
+Philosopher 3 is eating.
+Philosopher 5 is eating.
+Philosopher 1 is thinking.

@@ -1,4 +1,5 @@
 **PRODUCER-CONSUMER PROBLEM IMPLEMENTATION**
+
 This project implements a solution to the classic **producer-consumer problem** (bounded buffer problem) using POSIX threads and semaphores. The program demonstrates thread synchronization in a multi-threaded environment where producers add items to a shared circular buffer and consumers remove items, with proper coordination to prevent race conditions and ensure thread safety.
 
 The solution uses three semaphores to coordinate access to the shared buffer:

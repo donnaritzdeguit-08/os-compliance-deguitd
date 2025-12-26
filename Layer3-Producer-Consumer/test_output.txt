@@ -1,0 +1,106 @@
+Producer 1: produced 83 at index 0
+Buffer: [ 83 0 0 0 0 ]
+Producer 2: produced 86 at index 1
+Buffer: [ 83 86 0 0 0 ]
+Producer 3: produced 77 at index 2
+Buffer: [ 83 86 77 0 0 ]
+Consumer 1: consumed 83 from index 0
+Buffer: [ 0 86 77 0 0 ]
+Consumer 2: consumed 86 from index 1
+Buffer: [ 0 0 77 0 0 ]
+Producer 3: produced 15 at index 3
+Buffer: [ 0 0 77 15 0 ]
+Producer 2: produced 93 at index 4
+Buffer: [ 0 0 77 15 93 ]
+Consumer 1: consumed 77 from index 2
+Buffer: [ 0 0 0 15 93 ]
+Producer 1: produced 35 at index 0
+Buffer: [ 35 0 0 15 93 ]
+Consumer 2: consumed 15 from index 3
+Buffer: [ 35 0 0 0 93 ]
+Consumer 2: consumed 93 from index 4
+Buffer: [ 35 0 0 0 0 ]
+Consumer 1: consumed 35 from index 0
+Buffer: [ 0 0 0 0 0 ]
+Producer 3: produced 92 at index 1
+Buffer: [ 0 92 0 0 0 ]
+Producer 1: produced 49 at index 2
+Buffer: [ 0 92 49 0 0 ]
+Producer 2: produced 86 at index 3
+Buffer: [ 0 92 49 86 0 ]
+Producer 3: produced 21 at index 4
+Buffer: [ 0 92 49 86 21 ]
+Consumer 1: consumed 92 from index 1
+Buffer: [ 0 0 49 86 21 ]
+Consumer 2: consumed 49 from index 2
+Buffer: [ 0 0 0 86 21 ]
+Producer 1: produced 62 at index 0
+Buffer: [ 62 0 0 86 21 ]
+Producer 2: produced 27 at index 1
+Buffer: [ 62 27 0 86 21 ]
+Consumer 1: consumed 86 from index 3
+Buffer: [ 62 27 0 0 21 ]
+Producer 1: produced 90 at index 2
+Buffer: [ 62 27 90 0 21 ]
+Consumer 2: consumed 21 from index 4
+Buffer: [ 62 27 90 0 0 ]
+Producer 2: produced 63 at index 3
+Buffer: [ 62 27 90 63 0 ]
+Producer 3: produced 59 at index 4
+Buffer: [ 62 27 90 63 59 ]
+Consumer 1: consumed 62 from index 0
+Buffer: [ 0 27 90 63 59 ]
+Consumer 2: consumed 27 from index 1
+Buffer: [ 0 0 90 63 59 ]
+Producer 3: produced 26 at index 0
+Buffer: [ 26 0 90 63 59 ]
+Producer 1: produced 40 at index 1
+Buffer: [ 26 40 90 63 59 ]
+Consumer 2: consumed 90 from index 2
+Buffer: [ 26 40 0 63 59 ]
+Consumer 1: consumed 63 from index 3
+Buffer: [ 26 40 0 0 59 ]
+Producer 2: produced 26 at index 2
+Buffer: [ 26 40 26 0 59 ]
+Producer 1: produced 72 at index 3
+Buffer: [ 26 40 26 72 59 ]
+Consumer 1: consumed 59 from index 4
+Buffer: [ 26 40 26 72 0 ]
+Consumer 2: consumed 26 from index 0
+Buffer: [ 0 40 26 72 0 ]
+Producer 1: produced 11 at index 4
+Buffer: [ 0 40 26 72 11 ]
+Producer 3: produced 36 at index 0
+Buffer: [ 36 40 26 72 11 ]
+Consumer 1: consumed 40 from index 1
+Buffer: [ 36 0 26 72 11 ]
+Consumer 2: consumed 26 from index 2
+Buffer: [ 36 0 0 72 11 ]
+Producer 2: produced 68 at index 1
+Buffer: [ 36 68 0 72 11 ]
+Producer 3: produced 67 at index 2
+Buffer: [ 36 68 67 72 11 ]
+Consumer 2: consumed 72 from index 3
+Buffer: [ 36 68 67 0 11 ]
+Consumer 1: consumed 11 from index 4
+Buffer: [ 36 68 67 0 0 ]
+Producer 1: produced 29 at index 3
+Buffer: [ 36 68 67 29 0 ]
+Producer 3: produced 82 at index 4
+Buffer: [ 36 68 67 29 82 ]
+Consumer 2: consumed 36 from index 0
+Buffer: [ 0 68 67 29 82 ]
+Consumer 1: consumed 68 from index 1
+Buffer: [ 0 0 67 29 82 ]
+Producer 2: produced 30 at index 0
+Buffer: [ 30 0 67 29 82 ]
+Producer 1: produced 62 at index 1
+Buffer: [ 30 62 67 29 82 ]
+Consumer 2: consumed 67 from index 2
+Buffer: [ 30 62 0 29 82 ]
+Producer 3: produced 23 at index 2
+Buffer: [ 30 62 23 29 82 ]
+Consumer 1: consumed 29 from index 3
+Buffer: [ 30 62 23 0 82 ]
+Producer 2: produced 67 at index 3
+Buffer: [ 30 62 23 67 82 ]

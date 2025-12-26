@@ -11,4 +11,4 @@ The solution uses three semaphores to coordinate access to the shared buffer:
 
 **INSTRUCTIONS FOR COMPILATION AND EXECUTION:**
 
-To compile and execute the program, first **open the Cygwin terminal and navigate to the project directory**. From there, compile the source code by entering the command make. Once compilation is successful, launch the program using **make start**. After execution, you can remove the compiled files by running the **make clean** command.
+To compile and execute the program, first **open the Cygwin terminal and navigate to the project directory**. From there, compile the source code by entering the command **make**. Once compilation is successful, launch the program using **make start**. After execution, you can remove the compiled files by running the **make clean** command.
